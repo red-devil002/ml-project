@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+seaborn
+
+# Commonad that automatically trigger the setup.py file.
+-e .

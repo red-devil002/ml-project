@@ -1,0 +1,2 @@
+This folder is the main part of the application. i.e., the base of the package for this project.
+
