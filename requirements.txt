@@ -2,6 +2,8 @@ pandas
 numpy
 matplotlib
 seaborn
-
+scikit-learn
+catboost
+xgboost
 # Commonad that automatically trigger the setup.py file.
--e .
+# -e .
